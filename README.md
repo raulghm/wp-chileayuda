@@ -4,14 +4,14 @@ Theme Wordpress para ChileAyuda
 > Theme en proceso de construcción, basado en la ultima version de twentyseventeen
 
 ## Instalación
-* Hacer una copia o clonar este repositorio dentro de una carpeta en el directorio `wp-content/themes`
-* Ir al directorio `_gulp` y ejecutar `npm install` o `yarn`
+* Hacer una copia o clonar este repositorio dentro de una carpeta en el directorio `/wp-content/themes`
+* Ir al directorio `/_gulp` y ejecutar `npm install` o `yarn`
 
 ## Assets
-Se incluye gulp configurado para compilar CSS/JS.
+Se incluye gulp configurado para compilar CSS/JS. Para ejecutar tareas ir al directorio `/_gulp`
 
 ### Desarrollo
-* Ejecutar `npm run dev` para compilar y escuchar cambios en el directorio `_gulp/src/*`
+* Ejecutar `npm run dev` para compilar y escuchar cambios en el directorio `/_gulp/src/*`
 * Ejecutar `npm run build` solo para compilar
 
 ### Producción
