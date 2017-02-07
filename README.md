@@ -1,7 +1,7 @@
 Theme Wordpress para ChileAyuda
 ==
 
-> Theme simple en proceso de construcción
+> Theme en proceso de construcción, basado en la ultima version de twentyseventeen
 
 ## Instalación
 * Hacer una copia o clonar este repositorio dentro de una carpeta en el directorio `wp-content/themes`
